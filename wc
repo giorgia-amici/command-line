@@ -1,0 +1,7 @@
+  wc (word count) can be used with different flags:
+
+wc -l  line count 
+wc -c  the byte count
+wc -m  the character count
+wc -L  the length of longest line
+wc -w  the word count
