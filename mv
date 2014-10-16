@@ -1,0 +1,5 @@
+1. mv can rename a file
+  mv oldfile / newfile
+  
+2.it can as well move a file to a new directory
+  just by specifying the path
